@@ -24,5 +24,17 @@
  
 ### Result:
 ![data/outputs/output.gif](https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/output.gif)
-<p> <img src="https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/0.jpg" width="49%" height="100%"/> 
- <img src="https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/1.jpg" width="49%" height="50%"/> </p>
+![data/outputs/out1.jpg](https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/out1.jpg)
+![data/outputs/out2.jpg](https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/out2.jpg)
+
+### How to train:
+1. Download dataset from this link - https://www.kaggle.com/deadskull7/fer2013
+2. Extract the content of zip inside 'data' folder.
+3. Run below command -
+<pre><code> python train.py --path [path_to_csv_file] --epochs [no_of_epochs]
+ #Example - python train.py --path data/fer2013.csv --epochs 15 </pre></code>
+ 
+### References
+1. https://www.kaggle.com/deadskull7/fer2013
+2. https://www.kaggle.com/deadskull7/facreco-90-14-10-epochs
+3. https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html
