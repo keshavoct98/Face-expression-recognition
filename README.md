@@ -23,9 +23,8 @@
  python demo.py --input data/inputs/vid0.mp4 </pre></code>
  
 ### Result:
-![data/outputs/output.gif](https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/output.gif)
-![data/outputs/out1.jpg](https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/out1.jpg)
-![data/outputs/out2.jpg](https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/out2.jpg)
+<center><img src = "https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/output.gif" width=100%></center>
+<img src = "https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/output.jpg" width=100%>
 
 ### How to train:
 1. Download dataset from this link - https://www.kaggle.com/deadskull7/fer2013
