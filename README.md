@@ -22,5 +22,7 @@
  #Example
  python demo.py --input data/inputs/vid0.mp4 </pre></code>
  
- ### Result:
- ![vid1.gif]()
+### Result:
+![data/outputs/output.gif](https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/output.gif)
+<p> <img src="https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/0.jpg" width="49%" height="100%"/> 
+ <img src="https://github.com/keshavoct98/Face-expression-recognition/blob/master/data/outputs/1.jpg" width="49%" height="50%"/> </p>
