@@ -7,6 +7,8 @@
 &nbsp;&nbsp; numpy==1.19.1 </br>
 &nbsp;&nbsp; pandas==1.0.5 </br>
 &nbsp;&nbsp; keras==2.3.1 </br>
+&nbsp;&nbsp; tensorflow==2.2.0</br>
+
 
 ### Demo:
 <pre><code> #For images 
